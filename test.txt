@@ -1,1 +1,3 @@
 hello guys!wrote not throught the command
+
+comand mc -e  does not exist
